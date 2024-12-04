@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270723420443",
+    "project_id": "c14220035firebase1",
+    "storage_bucket": "c14220035firebase1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270723420443:android:75fd5610d4b845101443be",
+        "android_client_info": {
+          "package_name": "paba.materi.projectfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndgaUoAF7RfsQkqVr1oPBOKzI7ZQtyrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
